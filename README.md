@@ -1,12 +1,12 @@
-# Anita-V5
+# QUEEN_LIZZIAH-V5
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By ICE TECH ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/0ly0h6.jpg"/>       
+<img src="https://files.catbox.moe/ifwaqf.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN+ANITA-+V5•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN+LIZZIAH+V5•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ICE+TECH;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
@@ -24,7 +24,7 @@
 
 
 
-## Anita-V5 Deployment Methods
+## QUEEN_LIZZIAH-V5 Deployment Methods
 ---
 1.  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V5/fork) (A MUST) and Star ⭐ Repository for Courage.**
 2.  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
@@ -49,9 +49,9 @@
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
-- *Anita-V5 is not made by WhatsApp Inc. Sometimes or misusing the bot might ban your WhatsApp account!*
+- *QUEEN LIZZIAH -V5 is not made by WhatsApp Inc. Sometimes or misusing the bot might ban your WhatsApp account!*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Anita-V5 at your own risk by keeping this warning in mind.*
+- *Use QUEEN_LIZZIAH-V5 at your own risk by keeping this warning in mind.*
   
   #### `TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DavidCyrilTech/count.svg)
