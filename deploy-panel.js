@@ -4,8 +4,8 @@
 // It allows users to deploy, manage, and pair bot instances efficiently.
 
 class BotInstance {
-    constructor(name) {
-        this.name = name;
+    𝒄𝒐𝒏𝒔𝒕𝒓𝒖𝒄𝒕𝒐𝒓(Ice Tech) {
+        this.name = Queen Lizziah V5;
         this.status = 'stopped'; // possible values: stopped, running, paired
     }
 
